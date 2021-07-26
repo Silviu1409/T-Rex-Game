@@ -5,4 +5,4 @@ Joc realizat folosind concepte de POO invatate in anul I sem II.
 
 Framework : SFML 2.5.1
 
-Compiler : GNU G++ 5.1.0
+Compiler : GNU GCC 5.1.0
