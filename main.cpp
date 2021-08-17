@@ -882,6 +882,8 @@ public:
 
                                 Sleep(0.001);
 
+                                delete button;
+
                                 return true;
                             }
                             else{
